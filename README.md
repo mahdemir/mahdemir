@@ -1,6 +1,10 @@
 ### Hi there 👋
 
 <!--
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=halloween)
+
+![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000&base=220)
+
 **mahdemir/mahdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
