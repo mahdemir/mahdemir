@@ -3,12 +3,10 @@
 🏫 Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands! <br><br>
 
 🏢 Working as **Field Engineer** for different tech companies. <br><br>
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
-
-## About me
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) <br>
 ![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000)
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmutemindemir@gmail.com)](mailto:mahmutemindemir@gmail.com)
-
+## About me
 ```c
 char  *getName(void)
 {
