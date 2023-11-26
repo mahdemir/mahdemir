@@ -21,10 +21,10 @@ void  whoAmI(void)
 ```
 
 ## Programming Languages
-<img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c++.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/python.svg' height='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/mysql.svg' width='30'/> <img src= 'https://github.com/mahdemir/mahdemir/blob/main/imgs/html.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/css.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/docker.svg' width='30'/>
+<img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c++.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/python.svg' height='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/mysql.svg' width='40'/> <img src= 'https://github.com/mahdemir/mahdemir/blob/main/imgs/html.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/css.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/docker.svg' width='40'/>
  
 ## Technologies I Use
-<img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/git.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/android.svg' height='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/linux.svg' width='30'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/vscode.svg' height='40'/>
+<img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/git.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/android.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/linux.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/vscode.svg' width='40'/>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mademir&layout=compact" align='left'/></img>
 <p align="right">
