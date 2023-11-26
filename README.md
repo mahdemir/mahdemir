@@ -10,7 +10,6 @@
 \
 ![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000) 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmutemindemir@gmail.com)](mailto:mahmutemindemir@gmail.com)
-<a href='https://profile.intra.42.fr/users/mademir' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
 
 ## About me
 ```c
