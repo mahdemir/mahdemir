@@ -1,11 +1,17 @@
 ## Hi there, Mahmut here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-🏫 Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands! <br><br>
-
-🏢 Working as **Field Engineer** for different tech companies. <br><br>
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark) <br>
-![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000)
+🏫 Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands!
+\
+\
+🏢 Working as **Field Engineer** for different tech companies.
+\
+\
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
+\
+![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000) 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmutemindemir@gmail.com)](mailto:mahmutemindemir@gmail.com)
+<a href='https://profile.intra.42.fr/users/mademir' target="_blank"><img alt='42' src='https://img.shields.io/badge/Porto-100000?style=flat&logo=42&logoColor=white&labelColor=000000&color=000000'/></a>
+
 ## About me
 ```c
 char  *getName(void)
