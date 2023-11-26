@@ -1,6 +1,8 @@
 ## Hi there, Mahmut here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands! <br>
-Also working as **Field Engineer** for different tech companies.
+Also working as **Field Engineer** for different tech companies. <br> <br>
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
 ## About me
 ![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000)
@@ -34,15 +36,9 @@ void  whoAmI(void)
 <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/git.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/android.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/linux.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/vscode.svg' width='40'/>
 
 ##
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mademir&layout=compact" align='left'/></img>
-<p align="right">
-  <img src="https://readme-jokes.vercel.app/api?theme=halloween" alt="Jokes Card">
-</p>
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mademir&layout=compact&theme=flag-india"/></img>
 
 <!--
-
-
 **mahdemir/mahdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
