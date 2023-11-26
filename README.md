@@ -1,7 +1,8 @@
 ## Hi there, Mahmut here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands! <br>
-Also working as **Field Engineer** for different tech companies. <br> <br>
+🏫 Studying **Computer Science** at the awesome **42/Codam Coding College** in Amsterdam, Netherlands! <br><br>
+
+🏢 Working as **Field Engineer** for different tech companies. <br><br>
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
 ## About me
