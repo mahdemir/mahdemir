@@ -22,7 +22,7 @@ void  whoAmI(void)
 {
     char  *name = getName();
     char  *current_occupation = "Focusing on becoming a good programmer";
-    char  *current_work = "Maintaining hardware at location";
+    char  *current_work = "Maintaining hardware on site";
     char  *hobbies[] = {
             "Automating things",
             "Gaming",
