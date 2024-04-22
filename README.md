@@ -11,28 +11,6 @@
 ![](https://komarev.com/ghpvc/?username=mahdemir&color=FF0000) 
 [![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mahmutemindemir@gmail.com)](mailto:mahmutemindemir@gmail.com)
 
-## About me
-```c
-char  *getName(void)
-{
-    return ("Mahmut Demir");
-}
-
-void  whoAmI(void)
-{
-    char  *name = getName();
-    char  *current_occupation = "Focusing on becoming a good programmer";
-    char  *current_work = "Maintaining hardware on site";
-    char  *hobbies[] = {
-            "Automating things",
-            "Gaming",
-            "Riding bikes",
-            "Being up all Night chasing that ONE BUG..."
-    }
-    char  *city = "Utrecht/Netherlands";
-}
-```
-
 ## Programming Languages
 <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/c++.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/python.svg' height='40'/> <img src= 'https://github.com/mahdemir/mahdemir/blob/main/imgs/html.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/css.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/docker.svg' width='40'/> <img src = 'https://github.com/mahdemir/mahdemir/blob/main/imgs/mysql.svg' width='40'/>
  
